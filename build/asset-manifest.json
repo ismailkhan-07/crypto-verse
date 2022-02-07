@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ismailkhan-07/crypto-verse.git/static/css/main.6f996086.css",
+    "main.js": "/ismailkhan-07/crypto-verse.git/static/js/main.eb656f25.js",
+    "index.html": "/ismailkhan-07/crypto-verse.git/index.html",
+    "main.6f996086.css.map": "/ismailkhan-07/crypto-verse.git/static/css/main.6f996086.css.map",
+    "main.eb656f25.js.map": "/ismailkhan-07/crypto-verse.git/static/js/main.eb656f25.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f996086.css",
+    "static/js/main.eb656f25.js"
+  ]
+}
